@@ -1,6 +1,6 @@
 <h2> Hi <img src="https://i.ibb.co/WfcRDHL/waving.gif" width="25"> I'm Galih Bagus!</h2>
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230">
-<p><em>Informatics Engineering students at <a href="https://www.unesa.ac.id/">Universitas Negeri Surabaya</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>A freelance full stack developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<p><em>Informatics Engineering students at <a href="https://www.unesa.ac.id/">State University of Surabaya</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>A freelance full stack developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:galihbagushardiyanto@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/just.gbagus/)
@@ -21,6 +21,11 @@ let me = {
     }
 }
 ```
+
+![gbagush's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbagush&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbagush&layout=donut-vertical&theme=radical)
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
