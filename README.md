@@ -22,9 +22,12 @@ let me = {
 }
 ```
 
-![gbagush's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbagush&show_icons=true&theme=radical)
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=gbagush&show_icons=true&theme=radical" alt="gbagush's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbagush&layout=compact&theme=radical" alt="Top Languages" height="180" />
+</details>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbagush&layout=compact&theme=radical)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
