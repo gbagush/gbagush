@@ -24,8 +24,8 @@ let me = {
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=gbagush&show_icons=true&theme=radical" alt="gbagush's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbagush&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gbagush&show_icons=true&theme=radical" alt="gbagush's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbagush&layout=compact&theme=radical" alt="Top Languages" height="160" />
 </details>
 
 
