@@ -1,6 +1,8 @@
 <div align="center">
   <img width=300 src="./assets/main.gif"/>
+</div>
 
+<div align="center">
   <a href="https://github.com/gbagush">
     <img src="https://see.fontimg.com/api/rf5/3lV3z/NWRhYjA4YTI1Yjc0NDU5Njg2ZTgwZWQ0MzgzOWRhZDUub3Rm/SGV5IHRoZXJlISBJ4oCZbSBnYmFndXNo/simple-minimalist.png?r=fs&h=87&w=1333&fg=E7CFAA&bg=353D4B&tb=1&s=65" width="600" alt="Grettings Banner">
   </a>
@@ -21,7 +23,7 @@
 </p>
 
 <div align="center" justify-content="space-between">
-    <a href="./README-ID.md"><img src="https://img.shields.io/badge/README-ID-blue?color=E7CFAA&labelColor=0D1117&style=for-the-badge"></a>
+  <a href="./README-ID.md"><img src="https://img.shields.io/badge/README-ID-blue?color=E7CFAA&labelColor=0D1117&style=for-the-badge"></a>
 	<a href="./README.md"><img src="https://img.shields.io/badge/README-ENG-blue?color=E7CFAA&labelColor=E7CFAA&style=for-the-badge"></a>
 </div>
 
@@ -81,12 +83,12 @@ let me = {
 
   <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gbagush&langs_count=6&layout=compact&title_color=E7CFAA&text_color=E7CFAA&bg_color=0D1117&border_color=30363D&hide_border=true&locale=en&custom_title=GitHub%20Stats" alt="gbagush's GitHub Stats" width="355" height="175" />
+<img src="https://github-readme-stats.vercel.app/api?username=gbagush&langs_count=6&layout=compact&title_color=E7CFAA&text_color=E7CFAA&bg_color=0D1117&border_color=30363D&hide_border=true&locale=en&custom_title=GitHub%20Stats&theme=transparent" alt="gbagush's GitHub Stats" width="355" height="175" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbagush&langs_count=6&layout=compact&title_color=E7CFAA&text_color=E7CFAA&bg_color=0D1117&border_color=30363D&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="465" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbagush&langs_count=6&layout=compact&title_color=E7CFAA&text_color=E7CFAA&bg_color=0D1117&border_color=30363D&hide_border=true&locale=en&custom_title=Top%20Languages&theme=transparent" alt="Top Languages" width="465" height="175" />
 
 </div >
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gbagush&bg_color=0D1117&color=E7CFAA&line=E7CFAA&point=E7CFAA&area_color=E7CFAA&area=true&hide_border=true&custom_title=%20" width="850" height="300" alt="Contribution Constellation"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gbagush&bg_color=0D1117&color=E7CFAA&line=E7CFAA&point=E7CFAA&area_color=E7CFAA&area=true&hide_border=true&custom_title=%20&theme=transparent" width="850" height="300" alt="Contribution Constellation"/>
 
 </div>
