@@ -67,7 +67,7 @@ let me = {
     frontend: ["HTML", "CSS", "React"],
     framework: ["NextJS"],
     ui: ["Tailwind CSS", "shadcn/ui", "HeroUI"],
-    database: ["MySQL", "PostgreSQL", "MongoDB", "Redis"]
+    database: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
     devOps: ["Git", "Docker", "Nginx", "VPS Deployment"],
   },
 };
