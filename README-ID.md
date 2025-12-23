@@ -2,16 +2,13 @@
   <img width=300 src="./assets/main.gif"/>
 
   <a href="https://github.com/gbagush">
-    <img src="https://see.fontimg.com/api/rf5/3lV3z/NWRhYjA4YTI1Yjc0NDU5Njg2ZTgwZWQ0MzgzOWRhZDUub3Rm/SGV5IHRoZXJlISBJ4oCZbSBnYmFndXNo/simple-minimalist.png?r=fs&h=87&w=1333&fg=E7CFAA&bg=353D4B&tb=1&s=65" width="600" alt="Grettings Banner">
+    <img src="https://see.fontimg.com/api/rf5/3lV3z/NWRhYjA4YTI1Yjc0NDU5Njg2ZTgwZWQ0MzgzOWRhZDUub3Rm/SGFsbyEgQWt1IGdiYWd1c2g=/simple-minimalist.png?r=fs&h=87&w=1333&fg=E7CFAA&bg=353D4B&tb=1&s=65" width="450" alt="Grettings Banner">
   </a>
 </div>
 
 <br />
 
 <p align="center">
-  <a href="https://galihbagus.vercel.app">
-    <img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/gbagush/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -21,8 +18,8 @@
 </p>
 
 <div align="center" justify-content="space-between">
-    <a href="./README-ID.md"><img src="https://img.shields.io/badge/README-ID-blue?color=E7CFAA&labelColor=0D1117&style=for-the-badge"></a>
-	<a href="./README.md"><img src="https://img.shields.io/badge/README-ENG-blue?color=E7CFAA&labelColor=E7CFAA&style=for-the-badge"></a>
+    <a href="./README-ID.md"><img src="https://img.shields.io/badge/README-ID-blue?color=E7CFAA&labelColor=E7CFAA&style=for-the-badge"></a>
+    <a href="./README.md"><img src="https://img.shields.io/badge/README-ENG-blue?color=E7CFAA&labelColor=0D1117&style=for-the-badge"></a>
 </div>
 
 <br />
@@ -39,14 +36,15 @@
       <td valign="top" style="border: none;">
         <strong>gbagush</strong>
         <p style="margin-top: 5px; margin-bottom: 10px;">
-          I’m <b>Galih Bagus Hardiyanto</b> (aka <b>gbagush</b>), a developer who enjoys building clean, efficient, and reliable applications.
+          Aku <b>Galih Bagus Hardiyanto</b> (atau <b>gbagush</b>), developer yang suka bikin aplikasi yang rapi, efisien, dan bisa diandalkan.
         </p>
         <p style="margin-top: 5px; margin-bottom: 10px;">
-          I work across both frontend and backend, with a strong interest in web development. I like turning ideas into working solutions and continuously improving my skills through real-world projects.
+          Fokusku ada di frontend dan backend, khususnya web development. Aku senang mengubah ide jadi solusi nyata sambil terus mengasah skill lewat proyek-proyek langsung.
         </p>
-        <small style="color: #808080;">11:23 AM · 23 Dec 2025</small>
+        <small style="color: #808080;">11:23 AM · 23 Des 2025</small>
       </td>
     </tr>
+
   </table>
 </div>
 
@@ -74,16 +72,16 @@ let me = {
 <br />
 
 <h2 align="center">
-  <img src="https://see.fontimg.com/api/rf5/3lV3z/NWRhYjA4YTI1Yjc0NDU5Njg2ZTgwZWQ0MzgzOWRhZDUub3Rm/U3RhdGlzdGljcw/simple-minimalist.png?r=fs&h=87&w=1333&fg=E7CFAA&bg=353D4B&tb=1&s=65" width="200" alt="GitHub Stats title">
+  <img src="https://see.fontimg.com/api/rf5/3lV3z/NWRhYjA4YTI1Yjc0NDU5Njg2ZTgwZWQ0MzgzOWRhZDUub3Rm/U3RhdGlzdGlr/simple-minimalist.png?r=fs&h=87&w=1333&fg=E7CFAA&bg=353D4B&tb=1&s=65" width="200" alt="GitHub Stats title">
 </h2>
 
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #0D1117; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
 
   <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gbagush&langs_count=6&layout=compact&title_color=E7CFAA&text_color=E7CFAA&bg_color=0D1117&border_color=30363D&hide_border=true&locale=en&custom_title=GitHub%20Stats" alt="gbagush's GitHub Stats" width="355" height="175" />
+<img src="https://github-readme-stats.vercel.app/api?username=gbagush&langs_count=6&layout=compact&title_color=E7CFAA&text_color=E7CFAA&bg_color=0D1117&border_color=30363D&hide_border=true&locale=en&custom_title=Statistik%20GitHub" alt="gbagush's GitHub Stats" width="355" height="175" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbagush&langs_count=6&layout=compact&title_color=E7CFAA&text_color=E7CFAA&bg_color=0D1117&border_color=30363D&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="465" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbagush&langs_count=6&layout=compact&title_color=E7CFAA&text_color=E7CFAA&bg_color=0D1117&border_color=30363D&hide_border=true&locale=en&custom_title=Bahasa%20Teratas" alt="Top Languages" width="465" height="175" />
 
 </div >
 
